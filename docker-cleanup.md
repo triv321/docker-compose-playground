@@ -3,7 +3,7 @@
 
 ## 1. Remove unused (dangling) images
 These are layers that are not tagged and not referenced by any container.
-bash
+
 docker image prune
 
 2. Remove all unused images (including non-dangling)
