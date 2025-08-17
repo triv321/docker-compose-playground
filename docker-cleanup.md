@@ -33,3 +33,5 @@ docker system prune -a
 Use docker system prune -a only when you’re absolutely sure. It will remove a lot of data and is not reversible.
 
 ---
+
+this markdown file can be used as README.md for this learning project too
