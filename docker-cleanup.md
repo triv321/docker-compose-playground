@@ -36,5 +36,4 @@ Use docker system prune -a only when you’re absolutely sure. It will remove a 
 <<<<<<< HEAD
 
 this markdown file can be used as README.md for this learning project too
-=======
->>>>>>> a4936c497d13fe5d02fd2d71b4e796f91cf69c4d
+
